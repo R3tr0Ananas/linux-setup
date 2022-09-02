@@ -6,6 +6,6 @@
 
 
 ## 🔗 Links
-https://github.com/GloriousEggroll/proton-ge-custo
+https://github.com/GloriousEggroll/proton-ge-custom
 
 https://github.com/atar-axis/xpadneo
